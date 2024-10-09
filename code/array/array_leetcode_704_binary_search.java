@@ -26,7 +26,7 @@
 */
 
 
-package code.array;
+package code.Array;
 
 /**
  * array_leetcode_704_binary_search

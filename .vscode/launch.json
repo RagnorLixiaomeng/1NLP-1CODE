@@ -1,0 +1,42 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "code.LinkedList.Main",
+            "projectName": "1NLP-1CODE_913a2154"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "code.Array.array",
+            "projectName": "1NLP-1CODE_913a2154"
+        },
+        {
+            "type": "java",
+            "name": "array_leetcode_704_binary_search",
+            "request": "launch",
+            "mainClass": "code.Array.array_leetcode_704_binary_search",
+            "projectName": "1NLP-1CODE_913a2154"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "code.LinkedList.LinkedList",
+            "projectName": "1NLP-1CODE_913a2154"
+        }
+    ]
+}
