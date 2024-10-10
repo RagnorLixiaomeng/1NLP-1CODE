@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HashTableTwoSumOfNumbers",
+            "request": "launch",
+            "mainClass": "code.HashTable.HashTableTwoSumOfNumbers",
+            "projectName": "1NLP-1CODE_913a2154"
+        },
+        {
+            "type": "java",
+            "name": "HashTable",
+            "request": "launch",
+            "mainClass": "code.HashTable.HashTable",
+            "projectName": "1NLP-1CODE_913a2154"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "code.LinkedList.Main",
