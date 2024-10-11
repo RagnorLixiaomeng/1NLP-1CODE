@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MyStringReverse",
+            "request": "launch",
+            "mainClass": "code.MyString.MyStringReverse",
+            "projectName": "1NLP-1CODE_913a2154"
+        },
+        {
+            "type": "java",
+            "name": "MyString",
+            "request": "launch",
+            "mainClass": "code.MyString.MyString",
+            "projectName": "1NLP-1CODE_913a2154"
+        },
+        {
+            "type": "java",
+            "name": "String",
+            "request": "launch",
+            "mainClass": "code.MyString.String",
+            "projectName": "1NLP-1CODE_913a2154"
+        },
+        {
+            "type": "java",
+            "name": "String",
+            "request": "launch",
+            "mainClass": "code.String.String",
+            "projectName": "1NLP-1CODE_913a2154"
+        },
+        {
+            "type": "java",
+            "name": "StringReverse",
+            "request": "launch",
+            "mainClass": "code.String.StringReverse",
+            "projectName": "1NLP-1CODE_913a2154"
+        },
+        {
+            "type": "java",
             "name": "HashTableTwoSumOfNumbers",
             "request": "launch",
             "mainClass": "code.HashTable.HashTableTwoSumOfNumbers",
